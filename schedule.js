@@ -1,4 +1,4 @@
-{
+window.scheduleData = {
   "bins": {
     "black": {
       "color": "black",
